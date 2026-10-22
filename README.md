@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hey, I'm RE-figuring things out 👋
+
+I'm a software engineer, although lately I've been redefining what that even means to me! It's exciting and unsettling, but building cool, helpful things is the prize!
+I'm trying to figure out not just what I can build with AI, but what I should build, and what kind of engineer I want to become along the way.
 
 <!--
 **KinRim/KinRim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
